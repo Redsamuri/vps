@@ -20,7 +20,7 @@ class Poll:
 
   UA = "Line/8.0.0"
   #LA = "DESKTOPMAC\t10.10.2-YOSEMITE-x64\tMAC 4.5.0"
-  LA = "IOSIPAD\t7.18.0\tiPhone OS\t11.12.1"
+  LA = "CHROMEOS 8.2.1 NADYA-TJ x64"
 
   rev = 0
 
